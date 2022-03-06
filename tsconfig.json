@@ -21,7 +21,8 @@
     "node_modules",
     "dist",
     "pacts",
-    "logs"
+    "logs",
+    "./jsconfig.js"
   ],
   "extends": "expo/tsconfig.base"
 }
